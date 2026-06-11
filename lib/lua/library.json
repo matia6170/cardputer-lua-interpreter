@@ -1,0 +1,5 @@
+{
+  "name": "lua",
+  "version": "5.4.8",
+  "description": "Lua 5.4.8 vendored from https://www.lua.org/ftp/lua-5.4.8.tar.gz (lua.c, luac.c, onelua.c removed). LUA_32BITS is set in platformio.ini so the whole build agrees on the ABI."
+}
